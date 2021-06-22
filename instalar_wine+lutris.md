@@ -1,5 +1,9 @@
 # Instalar Wine + Lutris
 
+Guúía para instalar Wine y Lutris en Ubuntu 18.04 o posterior (tambien funciona para distribuciones basadas en ella).
+
+---
+
 ## 1. Instalar Wine
 
 (https://linuxconfig.org/install-lutris-on-ubuntu-20-04-focal-fossa-linux)
